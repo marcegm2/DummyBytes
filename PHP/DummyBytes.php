@@ -9,6 +9,6 @@
         @readfile($file);
     }
     else{
-        header('Location: https://halterapp.com');
+        header('Location: https://test-in-app-browser.herokuapp.com/');
     }
 ?>
