@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Widget running on staging</h1>";
+echo "<h1>Widget running on QA</h1>";
 
 ?>
 
